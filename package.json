@@ -1,0 +1,19 @@
+{
+  "name": "is-string-package-example",
+  "version": "1.0.0",
+  "description": "is the string npm package ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/black-nijar/npm-example.git"
+  },
+  "author": "nijarudeen rajak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/black-nijar/npm-example/issues"
+  },
+  "homepage": "https://github.com/black-nijar/npm-example#readme"
+}
